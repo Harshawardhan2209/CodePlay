@@ -11,7 +11,7 @@ Python :
 ![image](output/2nd.png)
 
 
-### Technologies Used:
+## 🛠 Skills
 - React.js
 - Express.js
 - CORS
@@ -61,4 +61,13 @@ Start the server
 ```bash
   npm run start
 ```
+
+
+## Contributing
+
+Contributions are always welcome!
+
+Please adhere to this project's `code of conduct`.
+
+
 
