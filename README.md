@@ -2,8 +2,12 @@
 
 CodePlay is a dynamic online coding platform designed to empower developers of all levels. With its robust Express.js backend and interactive React frontend, CodePlay offers a seamless environment for coding, collaboration, and creativity.
 
+Java :
+
 ![image](output/1st.png)
 
+
+Python : 
 ![image](output/2nd.png)
 
 
@@ -14,11 +18,6 @@ CodePlay is a dynamic online coding platform designed to empower developers of a
 - Javascript
 - API handling
 - tailwind-css-configs
-
-### Setup:
-1. Install dependencies using `npm install`.
-2. Start the server using `npm start`.
-3. The backend server will be running on `http://localhost:3000`.
 
 ### API Endpoints:
 - **GET /submissions**: Retrieve all submissions.
@@ -36,3 +35,30 @@ CodePlay is a dynamic online coding platform designed to empower developers of a
 1. Install dependencies using `npm install`.
 2. Start the development server using `npm start`.
 3. The frontend will be accessible on `http://localhost:3000`.
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Harshawardhan2209/CodePlay
+```
+
+Go to the project directory
+
+```bash
+  cd CodePlay
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
