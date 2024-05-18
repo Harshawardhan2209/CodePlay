@@ -2,6 +2,8 @@
 import dotenv from "dotenv";
 import app from "./app.js";
 import connectDB from "./database/connectToDb.js";
+
+// refer this : https://github.com/Harshawardhan2209/CodePlay
 dotenv.config({
   path: "./.env",
 });

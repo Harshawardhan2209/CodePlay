@@ -2,9 +2,9 @@
 
 CodePlay is a dynamic online coding platform designed to empower developers of all levels. With its robust Express.js backend and interactive React frontend, CodePlay offers a seamless environment for coding, collaboration, and creativity.
 
-![image](1st.png)
+![image](output/1st.png)
 
-![image](2nd.png)
+![image](output/2nd.png)
 
 
 ### Technologies Used:
