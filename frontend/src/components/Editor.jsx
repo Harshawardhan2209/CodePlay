@@ -10,7 +10,6 @@ import { mapLanguages } from "../helper/map-languages";
 const Editor = ({ onChange, source_code, language_id }) => {
   console.log(language_id);
   const selectedLanguage = getLanguage(language_id).toLowerCase();
-  // const lowercaseLanguage = selectedLanguage.toLowerCase();
   console.log(selectedLanguage);
   const handleIndentTab = (cm) => {
     const spaces = Array(cm.getOption("indentUnit") + 1).join(" ");
